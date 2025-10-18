@@ -2,7 +2,7 @@
 Track your daily meals, water intake, and weekly health progress—complete with motivational feedback & a dark mode toggle!
 
 ## 🚀 Live Demo
-[meals-n-water-tracker-main.netlify.app](https://teja-janga.github.io/Healthy-Meals-Water-Tracker/)
+[Demo](https://teja-janga.github.io/Healthy-Meals-Water-Tracker/)
 
 ## 📋 Features
 
