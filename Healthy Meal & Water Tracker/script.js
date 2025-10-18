@@ -177,7 +177,7 @@ document.addEventListener("DOMContentLoaded", () => {
 //-------------------------------- Toggle Button --------------------------------------
     document.getElementById('theme-toggle').addEventListener('click', function() {
         document.body.classList.toggle('dark-mode');
-        this.textContent = document.body.classList.contains('dark-mode') ? '☀️ Dark Mode' : '🌙 Dark Mode';
+        this.textContent = document.body.classList.contains('dark-mode') ? '☀️ Light Mode' : '🌙 Dark Mode';
         updateWeeklyStats();
     });
 //-------------------------------------------------------------------------------------
@@ -347,3 +347,4 @@ document.addEventListener("DOMContentLoaded", () => {
     });
 
 });
+
