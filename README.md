@@ -2,7 +2,7 @@
 Track your daily meals, water intake, and weekly health progress—complete with motivational feedback & a dark mode toggle!
 
 ## 🚀 Live Demo
-[Demo](https://teja-janga.github.io/Healthy-Meals-Water-Tracker/)
+[Demo Link](https://teja-janga.github.io/Healthy-Meals-Water-Tracker/)
 
 ## 📋 Features
 
